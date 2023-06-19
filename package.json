@@ -7,5 +7,16 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "description": "You're going to practice starting skills that you'll use during your work here.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evercodeinc/story-hello-evercode-js-eduardoao0-c31f0dc53a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evercodeinc/story-hello-evercode-js-eduardoao0-c31f0dc53a/issues"
+  },
+  "homepage": "https://github.com/evercodeinc/story-hello-evercode-js-eduardoao0-c31f0dc53a#readme"
 }
